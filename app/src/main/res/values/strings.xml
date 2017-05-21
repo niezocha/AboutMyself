@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">AboutMyself</string>
+    <string name="app_name">ZOFIA JANICKA</string>
+    <string name="mail">zofjanicka@gmail.com</string>
+    <string name="phone">+48 790 436 072</string>
+    <string name="github">https://github.com/niezocha</string>
+    <string name="linkedin">https://www.linkedin.com/in/zofia-janicka-10a00184/</string>
+    <string name="profile"><![CDATA[Currently changing my profession to Android developer.  Extremely motivated to grow professionally in this new field of work.  Like to learn, test and perfect new skills.  Looking forward to all the challenges and opportunities that career in software development brings.]]></string>
+    <string name="sggw">SGGW - Warsaw University of Life Science</string>
+    <string name="mgr_sggw">Master\'s studies in Biology</string>
+    <string name="time_sggw">OCT 2009 – JUN 2012</string>
+    <string name="univar">University of Warsaw</string>
+    <string name="time_univar">OCT 2010 – JUN 2013</string>
+    <string name="mgr_univar">Master\'s studies in Biotechnology</string>
+    <string name="sdacademy">Software Development Academy</string>
+    <string name="time_sda">DEC 2016 – MAY 2017</string>
+    <string name="course_sda">Java and Android bootcamp 360h</string>
+    <string name="adecco">Adecco Poland, Project Coordinator</string>
+    <string name="time_adecco">SEP 2014 – NOV 2014</string>
+    <string name="descr_adecco">Recruiting, scheduling and supervising temporary staff for Kooza by Cirque du Soleil</string>
+    <string name="time_leniviec1">AUG 2015 – JUN 2016</string>
+    <string name="leniwiec1">Leniwiec Biz, Technical Support Specialist</string>
+    <string name="descr_leniwiec1">Provided technical support, including applying changes to websites and databases</string>
+    <string name="descr_leniwiec2">Ensured proper functioning of the department, trained new employees, worked on developing support protocols</string>
+    <string name="time_leniwiec2">JUL 2016 – FEB 2017</string>
+    <string name="leniwiec2">Leniwiec Biz, Head of Technical Support</string>
+    <string name="descr_braincode">Developed Android application for easy gift choosing using Allegro Web API</string>
+    <string name="time_braincode">MAR 2017</string>
+    <string name="braincode">Brain Code 2017 Hackathon attendee</string>
 </resources>
