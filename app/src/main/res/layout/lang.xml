@@ -6,7 +6,7 @@
     android:layout_height="wrap_content">
 
     <TextView
-        android:text="@string/skills"
+        android:text="@string/lang"
         android:textStyle="bold"
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"
@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <TextView
-            android:text="Android"
+            android:text="@string/pol"
             android:textSize="20sp"
             android:layout_margin="5dp"
             android:textStyle="bold"
@@ -45,6 +45,46 @@
                 android:layout_height="20dp"/>
             <ImageView
                 android:src="@drawable/ic_full_star"
+                android:layout_width="20dp"
+                android:layout_height="20dp"/>
+            <ImageView
+                android:src="@drawable/ic_full_star"
+                android:layout_width="20dp"
+                android:layout_height="20dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginLeft="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="@string/eng"
+            android:textSize="20sp"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"/>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:src="@drawable/ic_full_star"
+                android:layout_width="25dp"
+                android:layout_height="20dp"/>
+            <ImageView
+                android:src="@drawable/ic_full_star"
+                android:layout_width="20dp"
+                android:layout_height="20dp"/>
+            <ImageView
+                android:src="@drawable/ic_full_star"
+                android:layout_width="20dp"
+                android:layout_height="20dp"/>
+            <ImageView
+                android:src="@drawable/ic_halfstar"
                 android:layout_width="20dp"
                 android:layout_height="20dp"/>
             <ImageView
@@ -60,7 +100,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <TextView
-            android:text="Java EE 8"
+            android:text="@string/span"
             android:textSize="20sp"
             android:layout_margin="5dp"
             android:textStyle="bold"
@@ -76,127 +116,7 @@
                 android:layout_width="25dp"
                 android:layout_height="20dp"/>
             <ImageView
-                android:src="@drawable/ic_full_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_full_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
                 android:src="@drawable/ic_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-        </LinearLayout>
-    </LinearLayout>
-
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_marginLeft="40dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <TextView
-            android:text="XML"
-            android:textSize="20sp"
-            android:layout_margin="5dp"
-            android:textStyle="bold"
-            android:layout_width="160dp"
-            android:layout_height="wrap_content"/>
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-            <ImageView
-                android:src="@drawable/ic_full_star"
-                android:layout_width="25dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_full_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-        </LinearLayout>
-    </LinearLayout>
-
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_marginLeft="40dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <TextView
-            android:text="mySQL"
-            android:textSize="20sp"
-            android:layout_margin="5dp"
-            android:textStyle="bold"
-            android:layout_width="160dp"
-            android:layout_height="wrap_content"/>
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-            <ImageView
-                android:src="@drawable/ic_full_star"
-                android:layout_width="25dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_full_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_full_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_star"
-                android:layout_width="20dp"
-                android:layout_height="20dp"/>
-        </LinearLayout>
-    </LinearLayout>
-
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_marginLeft="40dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <TextView
-            android:text="HTML + CSS"
-            android:textSize="20sp"
-            android:layout_margin="5dp"
-            android:textStyle="bold"
-            android:layout_width="160dp"
-            android:layout_height="wrap_content"/>
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-            <ImageView
-                android:src="@drawable/ic_full_star"
-                android:layout_width="25dp"
-                android:layout_height="20dp"/>
-            <ImageView
-                android:src="@drawable/ic_full_star"
                 android:layout_width="20dp"
                 android:layout_height="20dp"/>
             <ImageView
@@ -220,7 +140,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <TextView
-            android:text="GIT"
+            android:text="@string/rus"
             android:textSize="20sp"
             android:layout_margin="5dp"
             android:textStyle="bold"
@@ -236,11 +156,11 @@
                 android:layout_width="25dp"
                 android:layout_height="20dp"/>
             <ImageView
-                android:src="@drawable/ic_full_star"
+                android:src="@drawable/ic_star"
                 android:layout_width="20dp"
                 android:layout_height="20dp"/>
             <ImageView
-                android:src="@drawable/ic_full_star"
+                android:src="@drawable/ic_star"
                 android:layout_width="20dp"
                 android:layout_height="20dp"/>
             <ImageView

@@ -42,4 +42,11 @@ Basics of materlian design, databases, http comunication.
 Usage of google play services.
 Creating simple applications (both single activity and multicomponent). </string>
     <string name="skills">SKILLS</string>
+    <string name="tools">TOOLS</string>
+    <string name="lang">LANGUAGES</string>
+    <string name="eng">English</string>
+    <string name="pol">Polish (native)</string>
+    <string name="span">Spanish</string>
+    <string name="rus">Russian</string>
+    <string name="hobby">HOBBIES</string>
 </resources>

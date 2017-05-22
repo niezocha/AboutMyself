@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:layout_marginBottom="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<GridLayout
+    android:columnCount="3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:src="@drawable/photo1"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@drawable/photo2"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@drawable/photo3"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@drawable/photo4"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@drawable/photo5"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@drawable/photo6"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@drawable/photo7"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@drawable/photo8"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@drawable/photo9"
+        android:padding="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+</GridLayout>
+
+
+</LinearLayout>

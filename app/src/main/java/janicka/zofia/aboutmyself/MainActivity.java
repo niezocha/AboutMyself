@@ -50,9 +50,9 @@ public class MainActivity extends AppCompatActivity {
         maillingButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                EditText editText = (EditText) findViewById(R.id.edittext_mailto);
-                mailAddress = editText.getText().toString();
-                mailing();
+//                EditText editText = (EditText) findViewById(R.id.edittext_mailto);
+//                mailAddress = editText.getText().toString();
+//                mailing();
             }
         });
     }
