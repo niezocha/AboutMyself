@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ZOFIA JANICKA</string>
+    <string name="mail">zofjanicka@gmail.com</string>
+    <string name="phone">+48 790 436 072</string>
+    <string name="github">https://github.com/niezocha</string>
+    <string name="linkedin">https://www.linkedin.com/in/zofia-janicka-10a00184/</string>
+    <string name="profile_text"><![CDATA[Obecnie w trakcie przekwalifikowania na programistę aplikacji na plaformę Android. jestem silnie zmotywowana by rozwijać się w tej nowej dziedzinie. Lubię nabywać, testować i doskonalić nowe umiejętności. Z niecierpliwością czekam na wszystkie wyzwania i możliwości jakie niesie ze sobą praca programisty.]]></string>
+    <string name="sggw">SGGW - Szkoła Główna Gospodarstwa Wiejskiego</string>
+    <string name="mgr_sggw">Studia magisterskie na kierunku Biologia</string>
+    <string name="time_sggw">październik 2009 – styczeń 2012</string>
+    <string name="univar">Uniwersytet Warszawski</string>
+    <string name="time_univar">październik 2010 – styczeń 2013</string>
+    <string name="mgr_univar">Studia magisterskie na kierunku Biotechnologia</string>
+    <string name="sdacademy">Software Development Academy</string>
+    <string name="time_sda">grudzień 2016 – maj 2017</string>
+    <string name="course_sda">Java and Android bootcamp 360h</string>
+    <string name="adecco">Adecco Poland, Koordynator projektu</string>
+    <string name="time_adecco">wrzesień 2014 – listopad 2014</string>
+    <string name="descr_adecco">Rekrutacja, grafikowanie i nadzór pracowników tymczasowych dla Kooza by Cirque du Soleil</string>
+    <string name="time_leniviec1">sierpień 2015 – czerwiec 2016</string>
+    <string name="leniwiec1">Leniwiec Biz, Specjalista wsparcia technicznego</string>
+    <string name="descr_leniwiec1">Udzielanie wsparcia technicznego, w tym dokonywanie zmian na stronach internetowych i w bazach danych klientów</string>
+    <string name="descr_leniwiec2">Czuwanie nad prawidlowym funkcjonowaniem działu, szkolenie nowych pracowników, opracowanie protokołów wsparcia technicznego</string>
+    <string name="time_leniwiec2">lipiec 2016 – luty 2017</string>
+    <string name="leniwiec2">Leniwiec Biz, Szef działu wsparcia technicznego</string>
+    <string name="descr_braincode">Opracowanie aplikacji na platformę Android do łątwego wyboru prezentów przy wykorzystaniu Allegro Web API</string>
+    <string name="time_braincode">marzec 2017</string>
+    <string name="braincode">Brain Code 2017 uczestnik Hackathon\'u</string>
+    <string name="mail_subject">CV Zofia Janicka - Młodszy Programista Android</string>
+    <string name="mail_text">W załączniku przesyłam moje CV.</string>
+    <string name="profile">PROFILE</string>
+    <string name="mailto1">Podoba Ci się to co widzisz?</string>
+    <string name="mailto2">Podaj swój e-mail, żeby otrzymać to CV</string>
+    <string name="expirience">DOŚWIADCZENIE</string>
+    <string name="education">WYKSZTAŁCENIE</string>
+    <string name="contact">KONTAKT</string>
+    <string name="bootcamp">KURS JAVA I ANDROID</string>
+    <string name="bootcamp_text">Kurs Java i Android (360 godzin) obejmował:
+podstawy programowania w języku Java (w tym Java 8).
+Wprowadzenie do Android, Android SDK.
+Podstawy materlian design, baz danych, komunikacji http,
+Wykorzystanie google play services.
+Tworzenie prostych aplikacji (zarówno typu single activity jak i wielokomponentowych). </string>
+</resources>

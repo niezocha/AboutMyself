@@ -7,7 +7,7 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:text="EXPERIENCE"
+        android:text="@string/expirience"
         android:textStyle="bold"
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"

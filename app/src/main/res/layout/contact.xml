@@ -6,7 +6,7 @@
     android:padding="16dp">
 
     <TextView
-        android:text="CONTACT"
+        android:text="@string/contact"
         android:textStyle="bold"
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"

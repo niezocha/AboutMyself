@@ -6,14 +6,20 @@
     android:layout_height="match_parent">
     
     <TextView
-        android:text="JAVA AND ANDROID BOOTCAMP"
+        android:text="@string/bootcamp"
         android:textStyle="bold"
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"/>
-    
-    
+
+    <TextView
+        android:text="@string/bootcamp_text"
+        android:textStyle="italic"
+        android:textSize="18sp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
     
 </LinearLayout>

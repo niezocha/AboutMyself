@@ -4,7 +4,7 @@
     <string name="phone">+48 790 436 072</string>
     <string name="github">https://github.com/niezocha</string>
     <string name="linkedin">https://www.linkedin.com/in/zofia-janicka-10a00184/</string>
-    <string name="profile"><![CDATA[Currently changing my profession to Android developer.  Extremely motivated to grow professionally in this new field of work.  Like to learn, test and perfect new skills.  Looking forward to all the challenges and opportunities that career in software development brings.]]></string>
+    <string name="profile_text"><![CDATA[Currently changing my profession to Android developer. Extremely motivated to grow professionally in this new field of work. Like to learn, test and perfect new skills. Looking forward to all the challenges and opportunities that career in software development brings.]]></string>
     <string name="sggw">SGGW - Warsaw University of Life Science</string>
     <string name="mgr_sggw">Master\'s studies in Biology</string>
     <string name="time_sggw">OCT 2009 – JUN 2012</string>
@@ -26,4 +26,20 @@
     <string name="descr_braincode">Developed Android application for easy gift choosing using Allegro Web API</string>
     <string name="time_braincode">MAR 2017</string>
     <string name="braincode">Brain Code 2017 Hackathon attendee</string>
+    <string name="mail_subject">CV Zofia Janicka - Junior Android Developer</string>
+    <string name="mail_text">In the attachment you will find my resume.</string>
+    <string name="profile">PROFILE</string>
+    <string name="mailto1">Like what you\'re seeing?</string>
+    <string name="mailto2">Enter your e-mail to get this resume</string>
+    <string name="expirience">EXPERIENCE</string>
+    <string name="education">EDUCATION</string>
+    <string name="contact">CONTACT</string>
+    <string name="bootcamp">JAVA AND ANDROID BOOTCAMP</string>
+    <string name="bootcamp_text">Java and Android bootcamp (360h) included:
+Basics of Java (including Java 8).
+Introduction to Android, Android SDK.
+Basics of materlian design, databases, http comunication.
+Usage of google play services.
+Creating simple applications (both single activity and multicomponent). </string>
+    <string name="skills">SKILLS</string>
 </resources>
