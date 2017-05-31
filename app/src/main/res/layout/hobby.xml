@@ -6,6 +6,7 @@
     android:layout_height="wrap_content">
 
     <TextView
+        android:id="@+id/hobby"
         android:text="@string/hobby"
         android:textStyle="bold"
         android:textColor="@color/colorPrimary"

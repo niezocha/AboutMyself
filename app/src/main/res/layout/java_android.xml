@@ -6,6 +6,7 @@
     android:layout_height="match_parent">
     
     <TextView
+        android:id="@+id/java"
         android:text="@string/bootcamp"
         android:textStyle="bold"
         android:textColor="@color/colorPrimary"

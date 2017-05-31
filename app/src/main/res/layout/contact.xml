@@ -6,6 +6,7 @@
     android:padding="16dp">
 
     <TextView
+        android:id="@+id/contact"
         android:text="@string/contact"
         android:textStyle="bold"
         android:textColor="@color/colorPrimary"

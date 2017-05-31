@@ -145,23 +145,23 @@
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
 
-    <!--<android.support.design.widget.FloatingActionButton-->
-        <!--android:id="@+id/floating_button"-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_margin="16dp"-->
-        <!--android:src="@drawable/ic_heart"-->
-        <!--app:layout_anchor="@id/appbar"-->
-        <!--app:layout_anchorGravity="bottom|right|end"/>-->
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floating_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_heart"
+        app:layout_anchor="@id/appbar"
+        app:layout_anchorGravity="bottom|right|end"/>
 
-    <!--<android.support.v7.widget.CardView-->
-        <!--android:id="@+id/my_card_view"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_margin="10dp"-->
-        <!--android:visibility="gone"-->
-        <!--app:cardBackgroundColor="@color/colorPrimary">-->
-        <!--<include layout="@layout/mailing" />-->
-    <!--</android.support.v7.widget.CardView>-->
+    <android.support.v7.widget.CardView
+        android:id="@+id/my_card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:visibility="gone"
+        app:cardBackgroundColor="@color/colorPrimary">
+        <include layout="@layout/mailing" />
+    </android.support.v7.widget.CardView>
 
 </android.support.design.widget.CoordinatorLayout>
